@@ -6,3 +6,6 @@
 
 input_arr = input().split()
 num = int(input())
+
+# for i in range(len(input_arr)):
+#     for w in range(2, len)
